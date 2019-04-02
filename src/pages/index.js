@@ -14,7 +14,9 @@ const IndexPage = () => (
     />
     <div>
       <section className="main__section">
-        <Image />
+        <div className="image">
+          <Image />
+        </div>
         <div>
           <h1>A louer à Thoiry, Pays de Gex (France):</h1>
           <p>
