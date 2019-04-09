@@ -56,6 +56,10 @@ function SEO({ description, lang, meta, keywords, title }) {
           content: `summary`,
         },
         {
+          name: `google-site-verification`,
+          content: `qPXj0cPrEA7Y5xFbbxCjdEJCZOU9U6QTa1fN61ie12Y`,
+        },
+        {
           name: `twitter:creator`,
           content: site.siteMetadata.author,
         },
